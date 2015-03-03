@@ -178,7 +178,7 @@ get_header(); ?>
 
 
 	<div class = "hot-shit home-sections">			
-			<h1>Internal Tools</h1>
+			<h1>Internal Tools Yolo</h1>
 		<?php
 			$args = array(
 				'post_type' => 'hot_shit',
