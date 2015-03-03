@@ -1,0 +1,49 @@
+<?php
+/**
+ * The template used for displaying page content in page.php
+ *
+ * @package seniores
+ */
+?>
+
+		<h1 class="entry-title"><?php the_title(); ?></h1>
+
+		<div class="box-article-top">
+			<p>
+				<?php sn_posted_on(); ?>
+				<?php
+					if ( comments_open() && ! is_single() ) :
+						echo '<span class="line">/</span>';
+						echo '<strong>';
+						comments_popup_link( '<span class="leave-reply">' . __( 'Leave a comment', 'sn' ) . '</span>', __( 'One comment so far', 'sn' ), __( 'View all % comments', 'sn' ) );
+						echo '</strong>';
+					endif; // comments_open()
+				?>
+			</p>
+		</div>
+
+		<div class="box-article-teaser">
+
+			<?php
+				$embed = rwmb_meta( 'sn_post_video' );
+				if ( !empty( $embed ) ) :
+			?>
+			<div class="box-video">
+				<div class="video"><?php echo $embed; ?></div>
+			</div>
+			<?php endif; ?>
+			<?php if ( $post->post_excerpt ): ?>
+			<p class="big">
+				<?php echo get_the_excerpt(); ?>
+			</p>
+			<?php endif; ?>
+			<?php
+				$show_likes = of_get_option( 'sn_post_social' );
+				if ($show_likes == 1)
+					echo do_shortcode('[like]');
+			?>
+
+		</div>
+		<div class="separator"></div>
+
+		<?php the_content(); ?>

@@ -1,0 +1,2059 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spacetype\n"
+"POT-Creation-Date: 2014-04-18 01:19+0100\n"
+"PO-Revision-Date: 2014-04-18 01:19+0100\n"
+"Last-Translator: Michal Pelech <michal.pelech@superkoderi.cz>\n"
+"Language-Team: The Seniores <team@theseniores.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:15
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:48
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:51
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:54
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:28
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "No comments."
+msgstr ""
+
+#: ../comments.php:55
+msgid "Be the first to post a comment."
+msgstr ""
+
+#: ../comments.php:56
+msgid "Close"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:80
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:81
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:83 ../comments.php:87
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:97
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:107
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:112 ../framework/meta-box/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:118
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:229
+msgid "Blog widget area"
+msgstr ""
+
+#: ../functions.php:238
+msgid "Page widget area"
+msgstr ""
+
+#: ../functions.php:247
+msgid "Footer widget area"
+msgstr ""
+
+#: ../functions.php:412
+msgid "Invalid sidebar ID"
+msgstr ""
+
+#: ../functions.php:504
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:504 ../single-sn_portfolio.php:50 ../single.php:73
+#: ../template-archives.php:82 ../inc/post-types.php:13
+#: ../inc/post-types.php:108 ../inc/post-formats/page.php:26
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:515
+msgid "(author)"
+msgstr ""
+
+#: ../functions.php:521
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:538
+msgid ", "
+msgstr ""
+
+#: ../functions.php:546
+#, php-format
+msgid ""
+"Posted by %1$s in <strong>%2$s</strong> <span class=\"line\">/</span> %3$s"
+msgstr ""
+
+#: ../functions.php:750
+msgid "previous"
+msgstr ""
+
+#: ../functions.php:758
+msgid "next"
+msgstr ""
+
+#: ../functions.php:785
+#, php-format
+msgid ""
+"<strong>There is a new version of the %s theme available.</strong> You have "
+"version %s installed. <a href=\"%s\">Update to version %s</a>."
+msgstr ""
+
+#: ../functions.php:852
+msgid "Gallery type"
+msgstr ""
+
+#: ../functions.php:861
+msgid "Image size"
+msgstr ""
+
+#: ../functions.php:871
+msgid "Show slide <br />bullets?"
+msgstr ""
+
+#: ../functions.php:878
+msgid "Show prev/next <br />links?"
+msgstr ""
+
+#: ../functions.php:885 ../inc/meta.php:219 ../inc/meta.php:655
+msgid "Animation"
+msgstr ""
+
+#: ../functions.php:894 ../inc/meta.php:233 ../inc/meta.php:669
+msgid "Easing"
+msgstr ""
+
+#: ../functions.php:932 ../inc/meta.php:276 ../inc/meta.php:712
+msgid "Speed animation"
+msgstr ""
+
+#: ../functions.php:937 ../inc/meta.php:283 ../inc/meta.php:719
+msgid "Timeout"
+msgstr ""
+
+#: ../header.php:40
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Error: No Post Found"
+msgstr ""
+
+#: ../no-results.php:17
+msgid "Sorry, but no posts have been created."
+msgstr ""
+
+#: ../options.php:58
+msgid "General"
+msgstr ""
+
+#: ../options.php:63
+msgid "Blog sidebar position"
+msgstr ""
+
+#: ../options.php:68 ../options.php:100
+msgid "None"
+msgstr ""
+
+#: ../options.php:69
+msgid "Left"
+msgstr ""
+
+#: ../options.php:70
+msgid "Right"
+msgstr ""
+
+#: ../options.php:76
+msgid "Enable social likes in blog post"
+msgstr ""
+
+#: ../options.php:77
+msgid "Enable social likes."
+msgstr ""
+
+#: ../options.php:83
+msgid "Portfolio type"
+msgstr ""
+
+#: ../options.php:88
+msgid "3 columns"
+msgstr ""
+
+#: ../options.php:89
+msgid "4 columns"
+msgstr ""
+
+#: ../options.php:95
+msgid "Portfolio crossroad item title"
+msgstr ""
+
+#: ../options.php:99 ../inc/meta.php:462
+msgid "Bottom"
+msgstr ""
+
+#: ../options.php:105
+msgid "Portfolio related projects"
+msgstr ""
+
+#: ../options.php:106
+msgid "Enable related projects."
+msgstr ""
+
+#: ../options.php:112
+msgid "Portfolio pager"
+msgstr ""
+
+#: ../options.php:113
+msgid "Enable portfolio pager."
+msgstr ""
+
+#: ../options.php:119
+msgid "Show breadcrumb"
+msgstr ""
+
+#: ../options.php:120
+msgid "Enable breadcrumb."
+msgstr ""
+
+#: ../options.php:126
+msgid "Responsive design"
+msgstr ""
+
+#: ../options.php:127
+msgid "Enable responsive design."
+msgstr ""
+
+#: ../options.php:133
+msgid "Favicon"
+msgstr ""
+
+#: ../options.php:134
+msgid "Favicon size 16x16px."
+msgstr ""
+
+#: ../options.php:140
+msgid "Header scripts"
+msgstr ""
+
+#: ../options.php:141
+msgid "Place Google Analytics code here."
+msgstr ""
+
+#: ../options.php:147
+msgid "Typography"
+msgstr ""
+
+#: ../options.php:153
+msgid "Font options"
+msgstr ""
+
+#: ../options.php:157
+msgid "Default (\"Helvetica Neue\",Helvetica,Arial,serif)"
+msgstr ""
+
+#: ../options.php:158
+msgid "Typekit"
+msgstr ""
+
+#: ../options.php:159
+msgid "Google fonts"
+msgstr ""
+
+#: ../options.php:170
+msgid "Typekit settings"
+msgstr ""
+
+#: ../options.php:176
+msgid "Typekit ID"
+msgstr ""
+
+#: ../options.php:177
+msgid "Get your Typekit ID in Kit editor on typekit.com website."
+msgstr ""
+
+#: ../options.php:183
+msgid "Text font family name"
+msgstr ""
+
+#: ../options.php:189
+msgid "Heading font family name"
+msgstr ""
+
+#: ../options.php:204
+msgid "Google fonts settings"
+msgstr ""
+
+#: ../options.php:210
+msgid "Text font family"
+msgstr ""
+
+#: ../options.php:211
+msgid ""
+"Enter the name of the font you want to use for text. <a href=\"#\">More "
+"info</a>."
+msgstr ""
+
+#: ../options.php:218
+msgid "Heading font family"
+msgstr ""
+
+#: ../options.php:219
+msgid ""
+"Enter the name of the font you want to use for headlines. <a href=\"#\">More "
+"info</a>."
+msgstr ""
+
+#: ../options.php:230
+msgid "Custom fonts"
+msgstr ""
+
+#: ../options.php:231
+msgid "Do you want custom fonts? <a href=\"#\">Click here</a>."
+msgstr ""
+
+#: ../options.php:236
+msgid "Font weight settings"
+msgstr ""
+
+#: ../options.php:242
+msgid "Normal text"
+msgstr ""
+
+#: ../options.php:246
+msgid "Extra Light (200)"
+msgstr ""
+
+#: ../options.php:247
+msgid "Light (300)"
+msgstr ""
+
+#: ../options.php:248
+msgid "Regular (400)"
+msgstr ""
+
+#: ../options.php:249
+msgid "Medium (500)"
+msgstr ""
+
+#: ../options.php:250
+msgid "Semibold (600)"
+msgstr ""
+
+#: ../options.php:251
+msgid "Bold (700)"
+msgstr ""
+
+#: ../options.php:252
+msgid "Black (800)"
+msgstr ""
+
+#: ../options.php:258
+msgid "Headings"
+msgstr ""
+
+#: ../options.php:262 ../options.php:278
+msgid "Extra Light"
+msgstr ""
+
+#: ../options.php:263 ../options.php:279
+msgid "Light"
+msgstr ""
+
+#: ../options.php:264 ../options.php:280
+msgid "Regular"
+msgstr ""
+
+#: ../options.php:265 ../options.php:281
+msgid "Medium"
+msgstr ""
+
+#: ../options.php:266 ../options.php:282
+msgid "Semibold"
+msgstr ""
+
+#: ../options.php:267 ../options.php:283
+#: ../framework/options-framework/options-sanitize.php:369
+msgid "Bold"
+msgstr ""
+
+#: ../options.php:268 ../options.php:284
+msgid "Black"
+msgstr ""
+
+#: ../options.php:274
+msgid "H1 + strong"
+msgstr ""
+
+#: ../options.php:291
+msgid "Colors"
+msgstr ""
+
+#: ../options.php:296
+msgid "Page background settings"
+msgstr ""
+
+#: ../options.php:297 ../options.php:361 ../options.php:395 ../options.php:454
+#: ../options.php:518 ../options.php:642 ../options.php:664
+msgid "Default color is #ffffff."
+msgstr ""
+
+#: ../options.php:304 ../options.php:461
+msgid "Titles color"
+msgstr ""
+
+#: ../options.php:305 ../options.php:326 ../options.php:410 ../options.php:462
+#: ../options.php:483 ../options.php:657
+msgid "Default color is #000000."
+msgstr ""
+
+#: ../options.php:311 ../options.php:468 ../inc/meta.php:59
+#: ../inc/meta.php:501
+msgid "Text color"
+msgstr ""
+
+#: ../options.php:312 ../options.php:340 ../options.php:347 ../options.php:354
+#: ../options.php:469 ../options.php:497 ../options.php:504 ../options.php:511
+msgid "Default color is #333333."
+msgstr ""
+
+#: ../options.php:318 ../options.php:475
+msgid "Secondary text color"
+msgstr ""
+
+#: ../options.php:319 ../options.php:476
+msgid "Default color is #cccccc."
+msgstr ""
+
+#: ../options.php:325 ../options.php:482 ../inc/meta.php:71
+#: ../inc/meta.php:513
+msgid "Link color"
+msgstr ""
+
+#: ../options.php:332 ../options.php:489
+msgid "Link color hover"
+msgstr ""
+
+#: ../options.php:333 ../options.php:490
+msgid "Default color is #f86366."
+msgstr ""
+
+#: ../options.php:339 ../options.php:496 ../inc/meta.php:83
+#: ../inc/meta.php:525
+msgid "Button border color"
+msgstr ""
+
+#: ../options.php:346 ../options.php:503 ../inc/meta.php:89
+#: ../inc/meta.php:531
+msgid "Button hover border & background color"
+msgstr ""
+
+#: ../options.php:353 ../options.php:510 ../inc/meta.php:95
+#: ../inc/meta.php:537
+msgid "Button text color"
+msgstr ""
+
+#: ../options.php:360 ../options.php:517
+msgid "Button hover text color"
+msgstr ""
+
+#: ../options.php:368
+msgid "Header"
+msgstr ""
+
+#: ../options.php:373
+msgid "Logo"
+msgstr ""
+
+#: ../options.php:374
+msgid "Logo in header."
+msgstr ""
+
+#: ../options.php:380
+msgid "Retina logo"
+msgstr ""
+
+#: ../options.php:381
+msgid "Upload your logo in double size."
+msgstr ""
+
+#: ../options.php:387
+msgid "Fixed header"
+msgstr ""
+
+#: ../options.php:388
+msgid "Enable fixed header."
+msgstr ""
+
+#: ../options.php:394
+msgid "Header background settings"
+msgstr ""
+
+#: ../options.php:402
+msgid "Menu color text"
+msgstr ""
+
+#: ../options.php:403
+msgid "Default color is #808080."
+msgstr ""
+
+#: ../options.php:409
+msgid "Menu hover color text"
+msgstr ""
+
+#: ../options.php:416
+msgid "Header border color"
+msgstr ""
+
+#: ../options.php:422
+msgid "Submenu background"
+msgstr ""
+
+#: ../options.php:428
+msgid "Submenu border color"
+msgstr ""
+
+#: ../options.php:435
+msgid "Footer"
+msgstr ""
+
+#: ../options.php:440
+msgid "Footer text"
+msgstr ""
+
+#: ../options.php:441
+msgid "Footer copyright text."
+msgstr ""
+
+#: ../options.php:447
+msgid "Footer color settings"
+msgstr ""
+
+#: ../options.php:453
+msgid "Footer background settings"
+msgstr ""
+
+#: ../options.php:524
+msgid "Footer border color"
+msgstr ""
+
+#: ../options.php:533
+msgid "Contact"
+msgstr ""
+
+#: ../options.php:538
+msgid "Contact form e-mail"
+msgstr ""
+
+#: ../options.php:539
+msgid "E-mail will be sent on the form."
+msgstr ""
+
+#: ../options.php:545
+msgid "E-mail logo"
+msgstr ""
+
+#: ../options.php:546
+msgid "Logo placed in e-mail body."
+msgstr ""
+
+#: ../options.php:552
+msgid "E-mail text"
+msgstr ""
+
+#: ../options.php:553
+msgid ""
+"{name} - return user name; {email} - return user e-mail; {message} - return "
+"user message; {site_name} - return site name"
+msgstr ""
+
+#: ../options.php:556
+msgid ""
+"<strong>Name:</strong> {name}\n"
+"<strong>E-mail:</strong> {email}\n"
+"<strong>Message:</strong>\n"
+"{message}\n"
+"\n"
+"E-mail was send from {site_name} website."
+msgstr ""
+
+#: ../options.php:560
+msgid "Texts in form"
+msgstr ""
+
+#: ../options.php:566 ../options.php:569
+msgid "Your name"
+msgstr ""
+
+#: ../options.php:573 ../options.php:576
+msgid "E-mail address"
+msgstr ""
+
+#: ../options.php:580 ../options.php:583
+msgid "Message"
+msgstr ""
+
+#: ../options.php:587
+msgid "Send button"
+msgstr ""
+
+#: ../options.php:590
+msgid "Send message"
+msgstr ""
+
+#: ../options.php:594
+msgid "Info messages in form"
+msgstr ""
+
+#: ../options.php:600
+msgid "Verification incorrect"
+msgstr ""
+
+#: ../options.php:603
+msgid "Human verification incorrect"
+msgstr ""
+
+#: ../options.php:607
+msgid "Missing content"
+msgstr ""
+
+#: ../options.php:610
+msgid "Please supply all information"
+msgstr ""
+
+#: ../options.php:614
+msgid "E-mail invalid"
+msgstr ""
+
+#: ../options.php:617
+msgid "E-mail Address Invalid"
+msgstr ""
+
+#: ../options.php:621
+msgid "Message unsent"
+msgstr ""
+
+#: ../options.php:624
+msgid "Message was not sent. Try Again"
+msgstr ""
+
+#: ../options.php:628
+msgid "Message sent"
+msgstr ""
+
+#: ../options.php:631
+msgid "Thanks! Your message has been sent"
+msgstr ""
+
+#: ../options.php:636
+msgid "Thickbox"
+msgstr ""
+
+#: ../options.php:641
+msgid "Overlay color"
+msgstr ""
+
+#: ../options.php:648
+msgid "Overlay transparency"
+msgstr ""
+
+#: ../options.php:649
+msgid "Default value is 0.4, min: 0, max: 1"
+msgstr ""
+
+#: ../options.php:656
+msgid "Thickbox color"
+msgstr ""
+
+#: ../options.php:663
+msgid "Thickbox text & controls color"
+msgstr ""
+
+#: ../options.php:671
+msgid "Loader"
+msgstr ""
+
+#: ../options.php:676
+msgid "Loader background color & image"
+msgstr ""
+
+#: ../options.php:685
+msgid "User CSS"
+msgstr ""
+
+#: ../options.php:690
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options.php:697
+msgid "Updates"
+msgstr ""
+
+#: ../options.php:702
+msgid ""
+"Insert your ThemeForest username and API key for receiving future Spacetype "
+"template updates"
+msgstr ""
+
+#: ../options.php:707
+msgid "ThemeForest username"
+msgstr ""
+
+#: ../options.php:713
+msgid "ThemeForest API key"
+msgstr ""
+
+#: ../search.php:25 ../search.php:66
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:70
+msgid "Sorry, but no posts found."
+msgstr ""
+
+#: ../single-sn_portfolio.php:102
+msgid "Other projects"
+msgstr ""
+
+#: ../single.php:44
+#, php-format
+msgid "Author: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../single.php:49 ../inc/post-formats/content-audio.php:34
+#: ../inc/post-formats/content-gallery.php:68
+#: ../inc/post-formats/content-video.php:33 ../inc/post-formats/content.php:32
+msgid "Tags:"
+msgstr ""
+
+#: ../single.php:56
+#, php-format
+msgid "Posted by %1$s"
+msgstr ""
+
+#: ../single.php:68 ../template-archives.php:77
+#: ../inc/post-formats/page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: ../single.php:104
+msgid "Previous article"
+msgstr ""
+
+#: ../single.php:112
+msgid "Next article"
+msgstr ""
+
+#: ../template-archives.php:54
+msgid "Last 30 Posts"
+msgstr ""
+
+#: ../template-archives.php:65
+msgid "Archives by Month:"
+msgstr ""
+
+#: ../template-archives.php:70
+msgid "Archives by Category:"
+msgstr ""
+
+#: ../template-portfolio.php:73
+msgid "Everything"
+msgstr ""
+
+#: ../template-portfolio.php:104
+msgid "Error: No Portfolios Found"
+msgstr ""
+
+#: ../template-portfolio.php:108
+msgid "Sorry, but no portfolios have been created."
+msgstr ""
+
+#: ../framework/breadcrumbs.php:9
+msgid "Home"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:10
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: ../framework/breadcrumbs.php:11
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:12
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../framework/breadcrumbs.php:13
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:14
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:40 ../framework/breadcrumbs.php:44
+msgid "You are here"
+msgstr ""
+
+#: ../framework/breadcrumbs.php:151
+msgid "Page"
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:172
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:293
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: ../framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:304
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: ../framework/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../framework/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../framework/meta-box/demo/better-include.php:16
+#: ../framework/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../framework/meta-box/demo/better-include.php:19
+#: ../framework/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:21
+#: ../framework/meta-box/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:24
+#: ../framework/meta-box/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../framework/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:80
+#: ../framework/meta-box/demo/demo.php:91
+#: ../framework/meta-box/demo/demo.php:233
+#: ../framework/meta-box/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:81
+#: ../framework/meta-box/demo/demo.php:92
+#: ../framework/meta-box/demo/demo.php:234
+#: ../framework/meta-box/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:86
+#: ../framework/meta-box/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:97
+#: ../framework/meta-box/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:152 ../inc/meta.php:449
+msgid "Slider"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:339
+#: ../framework/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:353
+#: ../framework/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:359
+#: ../framework/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:365
+#: ../framework/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../framework/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../framework/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../framework/meta-box/demo/map.php:13 ../inc/meta.php:758
+msgid "Address"
+msgstr ""
+
+#: ../framework/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../framework/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:244
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:418
+msgid "+"
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:440
+msgid "&#8211;"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/post.php:68
+#: ../framework/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:182
+#: ../framework/options-framework/options-framework.php:183
+#: ../framework/options-framework/options-framework.php:205
+#: ../framework/options-framework/options-framework.php:432
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:207
+#: ../framework/options-framework/options-framework.php:532
+msgid "Theme Updates"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:207
+#, php-format
+msgid "Theme Updates %1$s"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:211
+msgid "Support Forums"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:244
+msgid "Clear"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:245
+msgid "Default"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:246
+msgid "Select Color"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:296
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:328
+msgid "Default options restored."
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:382
+msgid "Options saved."
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:54
+#: ../framework/options-framework/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:56
+#: ../framework/options-framework/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:257 ../inc/meta.php:146
+#: ../inc/meta.php:590
+msgid "Top Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:258 ../inc/meta.php:147
+#: ../inc/meta.php:591
+msgid "Top Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:259 ../inc/meta.php:148
+#: ../inc/meta.php:592
+msgid "Top Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:263 ../inc/meta.php:152
+#: ../inc/meta.php:596
+msgid "Bottom Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:264 ../inc/meta.php:153
+#: ../inc/meta.php:597
+msgid "Bottom Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:265 ../inc/meta.php:154
+#: ../inc/meta.php:598
+msgid "Bottom Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:279 ../inc/meta.php:164
+#: ../inc/meta.php:608
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:292 ../inc/meta.php:173
+#: ../inc/meta.php:617
+msgid "Auto size"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:293 ../inc/meta.php:174
+#: ../inc/meta.php:618
+msgid "Cover"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:367 ../inc/meta.php:448
+msgid "Normal"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:368
+msgid "Italic"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:370
+msgid "Bold Italic"
+msgstr ""
+
+#: ../inc/meta-taxonomy.php:46
+msgid "My Text"
+msgstr ""
+
+#: ../inc/meta.php:33
+msgid "Custom background and color settings"
+msgstr ""
+
+#: ../inc/meta.php:43 ../inc/meta.php:432
+msgid "Color settings"
+msgstr ""
+
+#: ../inc/meta.php:44 ../inc/meta.php:433
+msgid "Background settings"
+msgstr ""
+
+#: ../inc/meta.php:53 ../inc/meta.php:495
+msgid "Title color"
+msgstr ""
+
+#: ../inc/meta.php:65 ../inc/meta.php:507
+msgid "Text secondary color"
+msgstr ""
+
+#: ../inc/meta.php:77 ../inc/meta.php:519
+msgid "Link hover color"
+msgstr ""
+
+#: ../inc/meta.php:102 ../inc/meta.php:544
+msgid "Button text hover color "
+msgstr ""
+
+#: ../inc/meta.php:123 ../inc/meta.php:567
+msgid "Background image"
+msgstr ""
+
+#: ../inc/meta.php:130 ../inc/meta.php:574
+msgid "Background repeat"
+msgstr ""
+
+#: ../inc/meta.php:134 ../inc/meta.php:578
+msgid "No repeat"
+msgstr ""
+
+#: ../inc/meta.php:135 ../inc/meta.php:579
+msgid "Repeat horizontally"
+msgstr ""
+
+#: ../inc/meta.php:136 ../inc/meta.php:580
+msgid "Repeat vertically"
+msgstr ""
+
+#: ../inc/meta.php:137 ../inc/meta.php:581
+msgid "Repeat"
+msgstr ""
+
+#: ../inc/meta.php:142 ../inc/meta.php:586
+msgid "Background position"
+msgstr ""
+
+#: ../inc/meta.php:149 ../inc/meta.php:593
+msgid "Center Left"
+msgstr ""
+
+#: ../inc/meta.php:150 ../inc/meta.php:594
+msgid "Center Center"
+msgstr ""
+
+#: ../inc/meta.php:151 ../inc/meta.php:595
+msgid "Center Right"
+msgstr ""
+
+#: ../inc/meta.php:159 ../inc/meta.php:603
+msgid "Background scroll"
+msgstr ""
+
+#: ../inc/meta.php:163 ../inc/meta.php:607
+msgid "Scroll normally"
+msgstr ""
+
+#: ../inc/meta.php:169 ../inc/meta.php:613
+msgid "Background size"
+msgstr ""
+
+#: ../inc/meta.php:180 ../inc/meta.php:624
+msgid "Background color"
+msgstr ""
+
+#: ../inc/meta.php:191
+msgid "Post gallery"
+msgstr ""
+
+#: ../inc/meta.php:197
+msgid "Gallery images"
+msgstr ""
+
+#: ../inc/meta.php:203 ../inc/meta.php:639
+msgid "Pages"
+msgstr ""
+
+#: ../inc/meta.php:204 ../inc/meta.php:640
+msgid "Show slide bullets?"
+msgstr ""
+
+#: ../inc/meta.php:211 ../inc/meta.php:647
+msgid "Navigation"
+msgstr ""
+
+#: ../inc/meta.php:212 ../inc/meta.php:648
+msgid "Show prev / next links?"
+msgstr ""
+
+#: ../inc/meta.php:220 ../inc/meta.php:656
+msgid "Slider animation"
+msgstr ""
+
+#: ../inc/meta.php:234 ../inc/meta.php:670
+msgid ""
+"For details visit <a href=\"http://matthewlein.com/experiments/easing.html\" "
+"target=\"_blank\">this link</a>"
+msgstr ""
+
+#: ../inc/meta.php:277 ../inc/meta.php:713
+msgid "In miliseconds (1 second = 1000 miliseconds)."
+msgstr ""
+
+#: ../inc/meta.php:284 ../inc/meta.php:720
+msgid ""
+"Automatic slideshow in miliseconds (1 second = 1000 miliseconds). Set 0 for "
+"manual start."
+msgstr ""
+
+#: ../inc/meta.php:295
+msgid "Post video"
+msgstr ""
+
+#: ../inc/meta.php:301 ../inc/widgets/widget-video.php:98
+msgid "Embed"
+msgstr ""
+
+#: ../inc/meta.php:311
+msgid "Post link"
+msgstr ""
+
+#: ../inc/meta.php:317
+msgid "Link name"
+msgstr ""
+
+#: ../inc/meta.php:322
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/meta.php:332
+msgid "Quote author"
+msgstr ""
+
+#: ../inc/meta.php:338
+msgid "Author name"
+msgstr ""
+
+#: ../inc/meta.php:348
+msgid "Audio settings"
+msgstr ""
+
+#: ../inc/meta.php:354
+msgid "Audio file"
+msgstr ""
+
+#: ../inc/meta.php:365
+msgid "Content settings"
+msgstr ""
+
+#: ../inc/meta.php:372
+msgid "Hide title"
+msgstr ""
+
+#: ../inc/meta.php:379
+msgid "Sections before content"
+msgstr ""
+
+#: ../inc/meta.php:393 ../inc/meta.php:412
+msgid "-Select a section-"
+msgstr ""
+
+#: ../inc/meta.php:398
+msgid "Sections after content"
+msgstr ""
+
+#: ../inc/meta.php:420
+msgid "Section settings"
+msgstr ""
+
+#: ../inc/meta.php:431
+msgid "General settings"
+msgstr ""
+
+#: ../inc/meta.php:434
+msgid "Slider settings"
+msgstr ""
+
+#: ../inc/meta.php:435
+msgid "Map settings"
+msgstr ""
+
+#: ../inc/meta.php:444
+msgid "Section type"
+msgstr ""
+
+#: ../inc/meta.php:450
+msgid "Map"
+msgstr ""
+
+#: ../inc/meta.php:456
+msgid "Vertical position"
+msgstr ""
+
+#: ../inc/meta.php:460
+msgid "Top"
+msgstr ""
+
+#: ../inc/meta.php:461
+msgid "Middle"
+msgstr ""
+
+#: ../inc/meta.php:467
+msgid "Width"
+msgstr ""
+
+#: ../inc/meta.php:471
+msgid "Full width (100%)"
+msgstr ""
+
+#: ../inc/meta.php:472
+msgid "Boxed (1150px)"
+msgstr ""
+
+#: ../inc/meta.php:473
+msgid "Full image"
+msgstr ""
+
+#: ../inc/meta.php:479
+msgid "Minimal height"
+msgstr ""
+
+#: ../inc/meta.php:480
+msgid "Minimal height description"
+msgstr ""
+
+#: ../inc/meta.php:726
+msgid "Slider items"
+msgstr ""
+
+#: ../inc/meta.php:740
+msgid "- Select a slider items -"
+msgstr ""
+
+#: ../inc/meta.php:744
+msgid "Slider link"
+msgstr ""
+
+#: ../inc/meta.php:745
+msgid "URL, for example www.spacetype.com"
+msgstr ""
+
+#: ../inc/meta.php:759
+msgid "1 Infinite Loop, Cupertino, CA 95014, United States"
+msgstr ""
+
+#: ../inc/meta.php:764
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/meta.php:765
+msgid "Range between 1-20, where 20 is maximal zoom"
+msgstr ""
+
+#: ../inc/meta.php:772
+msgid "Style"
+msgstr ""
+
+#: ../inc/meta.php:773
+msgid ""
+"Google map with custom colors. Use <a href=\"http://www.dwzone-it.com/"
+"StyledMapWizard/StyledMapWizard.asp\" target=\"_blank\">this tool</a> and "
+"paste the code from button \"show JSON\" here"
+msgstr ""
+
+#: ../inc/post-types.php:9 ../inc/post-types.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:11
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:12
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../inc/post-types.php:14
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:15
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../inc/post-types.php:16 ../inc/post-types.php:17
+msgid "View Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:18
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:19
+msgid "No portfolio found"
+msgstr ""
+
+#: ../inc/post-types.php:20
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../inc/post-types.php:21
+msgid "Parent Portfolio"
+msgstr ""
+
+#: ../inc/post-types.php:76
+msgid "Search Category"
+msgstr ""
+
+#: ../inc/post-types.php:77
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/post-types.php:78
+msgid "Parent Category"
+msgstr ""
+
+#: ../inc/post-types.php:79
+msgid "Parent Category:"
+msgstr ""
+
+#: ../inc/post-types.php:80
+msgid "Edit Category"
+msgstr ""
+
+#: ../inc/post-types.php:81
+msgid "Update Category"
+msgstr ""
+
+#: ../inc/post-types.php:82
+msgid "Add New Category"
+msgstr ""
+
+#: ../inc/post-types.php:83
+msgid "New Category Name"
+msgstr ""
+
+#: ../inc/post-types.php:84
+msgid "Categories"
+msgstr ""
+
+#: ../inc/post-types.php:104
+msgid "Sections"
+msgstr ""
+
+#: ../inc/post-types.php:105
+msgid "Section"
+msgstr ""
+
+#: ../inc/post-types.php:106 ../inc/post-types.php:107
+msgid "Add New Section"
+msgstr ""
+
+#: ../inc/post-types.php:109
+msgid "Edit Section"
+msgstr ""
+
+#: ../inc/post-types.php:110
+msgid "New Section"
+msgstr ""
+
+#: ../inc/post-types.php:111 ../inc/post-types.php:112
+msgid "View Section"
+msgstr ""
+
+#: ../inc/post-types.php:113
+msgid "Search Section"
+msgstr ""
+
+#: ../inc/post-types.php:114
+msgid "No sections found"
+msgstr ""
+
+#: ../inc/post-types.php:115
+msgid "No sections found in Trash"
+msgstr ""
+
+#: ../inc/post-types.php:116
+msgid "Parent Section"
+msgstr ""
+
+#: ../inc/shortcodes.php:535
+#, php-format
+msgid "%1$s sent a message from %2$s website"
+msgstr ""
+
+#: ../inc/shortcodes.php:607
+msgid "Leave this field empty"
+msgstr ""
+
+#: ../inc/shortcodes.php:748 ../inc/widgets/widget-twitter.php:146
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../inc/shortcodes.php:750 ../inc/widgets/widget-twitter.php:148
+msgid "Y/m/d"
+msgstr ""
+
+#: ../inc/shortcodes.php:752 ../inc/widgets/widget-twitter.php:150
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/shortcodes.php:752 ../inc/widgets/widget-twitter.php:150
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: ../inc/post-formats/content-audio.php:28
+#: ../inc/post-formats/content-gallery.php:62
+#: ../inc/post-formats/content-video.php:27 ../inc/post-formats/content.php:26
+#: ../inc/post-formats/single-audio.php:18
+#: ../inc/post-formats/single-gallery.php:18
+#: ../inc/post-formats/single-link.php:21
+#: ../inc/post-formats/single-quote.php:18
+#: ../inc/post-formats/single-status.php:18
+#: ../inc/post-formats/single-video.php:18 ../inc/post-formats/single.php:18
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/post-formats/content-audio.php:28
+#: ../inc/post-formats/content-gallery.php:62
+#: ../inc/post-formats/content-video.php:27 ../inc/post-formats/content.php:26
+#: ../inc/post-formats/single-audio.php:18
+#: ../inc/post-formats/single-gallery.php:18
+#: ../inc/post-formats/single-link.php:21
+#: ../inc/post-formats/single-quote.php:18
+#: ../inc/post-formats/single-status.php:18
+#: ../inc/post-formats/single-video.php:18 ../inc/post-formats/single.php:18
+msgid "One comment so far"
+msgstr ""
+
+#: ../inc/post-formats/content-audio.php:28
+#: ../inc/post-formats/content-gallery.php:62
+#: ../inc/post-formats/content-video.php:27 ../inc/post-formats/content.php:26
+#: ../inc/post-formats/single-audio.php:18
+#: ../inc/post-formats/single-gallery.php:18
+#: ../inc/post-formats/single-link.php:21
+#: ../inc/post-formats/single-quote.php:18
+#: ../inc/post-formats/single-status.php:18
+#: ../inc/post-formats/single-video.php:18 ../inc/post-formats/single.php:18
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:22
+msgid "A widget that displays 125x125 ads "
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:24
+msgid "Custom Ads 125"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:149 ../inc/widgets/widget-contact.php:129
+#: ../inc/widgets/widget-portfolio.php:140
+#: ../inc/widgets/widget-social.php:268 ../inc/widgets/widget-twitter.php:218
+#: ../inc/widgets/widget-video.php:93
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:154 ../inc/widgets/widget-portfolio.php:145
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:159 ../inc/widgets/widget-ads.php:168
+msgid "Ad 1 image url"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:163 ../inc/widgets/widget-ads.php:172
+msgid "Ad 1 link url"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:177
+msgid "Ad 3 image url"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:181
+msgid "Ad 3 link url"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:186
+msgid "Ad 4 image url"
+msgstr ""
+
+#: ../inc/widgets/widget-ads.php:190
+msgid "Ad 4 link url"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:22
+msgid "A widget that displays contact address "
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:24
+msgid "Custom Address"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:134
+msgid "Row 1 header"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:138
+msgid "Row 1 text"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:143
+msgid "Row 2 header"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:147
+msgid "Row 2 text"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:152
+msgid "Row 3 header"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:156 ../inc/widgets/widget-contact.php:165
+msgid "Row 3 text"
+msgstr ""
+
+#: ../inc/widgets/widget-contact.php:161
+msgid "Row 4 header"
+msgstr ""
+
+#: ../inc/widgets/widget-portfolio.php:22
+msgid "A widget that displays last portfolio item "
+msgstr ""
+
+#: ../inc/widgets/widget-portfolio.php:24
+msgid "Custom Portfolio"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:22
+msgid "A widget that displays social icons"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:24
+msgid "Custom Social Icons"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:273
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:277
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:281
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:285
+msgid "Soundcloud"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:289
+msgid "Skype"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:293
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:297
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:301
+msgid "Lastfm"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:305
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:309
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:313
+msgid "Github"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:317
+msgid "Forrst"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:321
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:325
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:329
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:333
+msgid "Deviantart"
+msgstr ""
+
+#: ../inc/widgets/widget-social.php:337
+msgid "Behance"
+msgstr ""
+
+#: ../inc/widgets/widget-twitter.php:40
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: ../inc/widgets/widget-twitter.php:224
+msgid "Twitter Username e.g. paulund_"
+msgstr ""
+
+#: ../inc/widgets/widget-twitter.php:230
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: ../inc/widgets/widget-twitter.php:236
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: ../inc/widgets/widget-video.php:22
+msgid "A widget that displays custom video "
+msgstr ""
+
+#: ../inc/widgets/widget-video.php:24
+msgid "Custom Video"
+msgstr ""
+
+#: ../inc/widgets/widget-video.php:102
+msgid "Description"
+msgstr ""
