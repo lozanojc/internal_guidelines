@@ -40,7 +40,9 @@ get_header(); ?>
 		endif;
 	?>
 	<div class="welcome-section home-sections">
-		<h1><?php the_field('welcome-text'); ?></h1>
+		<div class="welcome-header"><?php the_field('welcome-text'); ?>
+			<img class="color-palette" alt="" src="https://cdn.cpbgroup.com/styles/hero-content-image/s3/CPBcolor-palette.jpg?itok=gJOgVm9r">
+		</div>
 		<?php the_field('instagram_sc'); ?>
 	</div>
 
@@ -178,12 +180,13 @@ get_header(); ?>
 
 
 	<div class = "hot-shit home-sections">			
-			<h1>Internal Tools Yolo</h1>
+			<h1>Internal Tools</h1>
 		<?php
 			$args = array(
 				'post_type' => 'hot_shit',
 				'orderby' => 'time',
-				'order' => 'ASC'
+				'order' => 'ASC', 
+				'posts_per_page' => 20
 			);
 			$loop2 = new WP_Query( $args );
 
@@ -193,11 +196,11 @@ get_header(); ?>
 			<?php
 			while ( $loop2->have_posts()) : $loop2->the_post(); ?>
 
-				<a class="template hs" href="<?php the_field('hs_link'); ?>">
+				<a class="template hs" target="_blank" href="<?php the_field('hs_link'); ?>">
 					<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 						<div class="flipper">
 							<div class="front">
-								<h2><?php the_title(); ?></h2>
+								<h3><?php the_title(); ?></h3>
 							</div>
 							<div class="back">
 								<div class="excerpt"><?php the_content(); ?></div>
@@ -221,7 +224,7 @@ get_header(); ?>
 				'post_type' => 'important_s',
 				'orderby' => 'time',
 				'order' => 'ASC', 
-				'posts_per_page' => 12
+				'posts_per_page' => 20
 			);
 			$loop1 = new WP_Query( $args );
 
@@ -231,7 +234,7 @@ get_header(); ?>
 			<?php
 			while ( $loop1->have_posts()) : $loop1->the_post(); ?>
 
-				<a class="template is" href="<?php the_field('hs_link'); ?>">
+				<a class="template is" target="_blank" href="<?php the_field('hs_link'); ?>">
 					<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 						<div class="flipper">
 							<div class="front">

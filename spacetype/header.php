@@ -22,8 +22,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=1" />
 		<?php endif; ?>
 
-		<meta name="author" content="HTML &amp; WordPress by Seniores" />
 		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+
+
+		<link rel="icon" type="image/png" sizes="16x16" href="http://guidelines.cpb.io/wp-content/uploads/2015/02/backend-logo.png">
+
+
 
 		<title>
 		<?php
@@ -40,16 +44,6 @@
 				echo ' | ' . sprintf( __( 'Page %s', 'ellipsis' ), max( $paged, $page ) );
 		?>
 		</title>
-
-		<!--[if lte IE 8]>
-			<script src="<?php echo THEME_WEB_ROOT; ?>/js/respond.min.js"></script>
-		<![endif]-->
-
-		<?php
-			$favicon = of_get_option( 'sn_favicon' );
-			if (!empty($favicon)) :
-		?>
-		<?php endif; ?>
 
 		<?php wp_head(); ?>
 	</head>

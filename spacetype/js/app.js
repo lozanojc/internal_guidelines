@@ -240,6 +240,8 @@
 
 
 			// Tabs
+
+
 			$('.tabs-line')
 				.each(function(i)
 				{
@@ -347,6 +349,7 @@
 				{
 					$(this).trigger('resize.slide')
 					$(App.MQ).trigger('webload');
+					$('.sbi_item:gt(9)').hide();
 				})
 				.trigger('resize.slide')
 

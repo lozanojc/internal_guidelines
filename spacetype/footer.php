@@ -29,7 +29,7 @@
 				<?php endif; ?>
 
 				<?php sn_footer_in(); ?>
-
+				<img class="color-palette" alt="" src="https://cdn.cpbgroup.com/styles/hero-content-image/s3/CPBcolor-palette.jpg?itok=gJOgVm9r">
 			</div>
 		</footer>
 
